@@ -1,36 +1,21 @@
 <h1 align="center">Hi 👋, I'm Raza Shaikh</h1>
-<h3 align="center">AI & Data Science Engineer | Python Developer | Backend & ML Enthusiast</h3>
+<h3 align="center">AI & Data Science Engineer | Generative AI | Python Backend Developer</h3>
 
 ---
 
 ## 💫 About Me
-💻 Final Year **B.Tech in AI & Data Science**  
-🤖 Interested in **Artificial Intelligence, Machine Learning & Backend Development**  
-🐍 Strong in **Python, SQL and Data Analysis**  
-☁️ Learning **Cloud + AI Deployment**  
-🚀 Building projects combining **AI + Real World Applications**
 
----
+🎓 Final Year **B.Tech in Artificial Intelligence & Data Science**
 
-## 🌐 Connect With Me
+💡 Interested in:
+- Generative AI
+- Machine Learning
+- AI Systems
+- Backend Engineering
 
-<p align="left">
-<a href="https://github.com/razashaikh26" target="blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+⚙️ I enjoy building **AI-powered backend systems and real-world ML applications**
 
-<a href="https://linkedin.com" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://instagram.com" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://discord.com" target="blank">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
-</p>
+☁️ Currently working with **AWS cloud deployment and AI infrastructure**
 
 ---
 
@@ -38,55 +23,101 @@
 
 ### Programming
 ![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-### Backend
-![Flask](https://skillicons.dev/icons?i=flask)
-![Django](https://skillicons.dev/icons?i=django)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-
-### Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### AI / Data Science
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+---
 
-- NumPy
-- Pandas
-- Scikit-Learn
-- OpenCV
-- Data Analysis
+### Backend Development
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+- REST API Development  
+- JWT Authentication  
+- Role Based Access Control
+
+---
+
+### AI / Machine Learning
+
 - Machine Learning
+- Generative AI
+- LLM Integration
+- Retrieval Augmented Generation (RAG)
+- Knowledge Base Systems
+- Vector Similarity Search
+- Hybrid Retrieval (BM25 + Vector)
 
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
+Libraries / Frameworks:
+
+- LangChain
+- HuggingFace Embeddings
+
+Vector Databases:
+
+- Chroma DB
+- OpenSearch (AWS)
+
+---
+
+### Cloud & DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git)
+
+- AWS EC2
+- AWS S3
+- AWS RDS
+- AWS Bedrock
+- CI/CD
+- Docker Containerization
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-### 🧠 AI Civic Complaint Classification
-AI system that automatically classifies civic complaints using NLP and machine learning.
+## 🧠 RAG Platform
 
-**Tech:** Python, ML, NLP
+Built a Retrieval Augmented Generation system that answers queries using **document context instead of pretrained knowledge**.
+
+**Technologies**
+- Python
+- FastAPI
+- LangChain
+- Chroma Vector Database
+- HuggingFace Embeddings
+- OpenRouter LLM APIs
+
+**Features**
+
+- Hybrid retrieval (BM25 + Vector Search)
+- Dynamic document chunking
+- Query rewriting
+- Context-aware generation
+- Vector similarity search
 
 ---
 
-### 🚦 Smart Traffic Control System
-Traffic signal optimization system using computer vision to detect vehicle density.
+## 🏨 Hostel Management Platform
 
-**Tech:** OpenCV, Python, AI
+Backend platform for managing hostel operations.
 
----
+**Technologies**
 
-### 🏨 Hostel Room Management System
-Role-based system to manage hostel rooms with Admin, Warden and Student roles.
+- Python
+- FastAPI
+- JWT Authentication
+- PostgreSQL (Neon Cloud)
+- Docker
+- AWS EC2
 
-**Tech:** FastAPI, PostgreSQL, JWT Authentication
+**Features**
+
+- Student registration
+- Room allocation
+- Occupancy tracking
+- Role based access (Admin / Warden / Student)
+- Secure REST APIs
 
 ---
 
@@ -112,14 +143,4 @@ Role-based system to manage hostel rooms with Admin, Warden and Student roles.
 
 ---
 
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-⭐ **Always learning, always building.**
+⭐ **Focused on building scalable AI systems and real-world machine learning applications**
