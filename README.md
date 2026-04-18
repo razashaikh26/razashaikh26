@@ -1,123 +1,118 @@
 <h1 align="center">Hi 👋, I'm Raza Shaikh</h1>
-<h3 align="center">AI & Data Science Engineer | Generative AI | Python Backend Developer</h3>
+<h3 align="center">AI Engineer | Machine Learning | LLM & RAG Systems | FastAPI | AWS</h3>
 
 ---
 
 ## 💫 About Me
 
-🎓 Final Year **B.Tech in Artificial Intelligence & Data Science**
+🎓 Final Year B.Tech in Artificial Intelligence & Data Science  
 
-💡 Interested in:
-- Generative AI
-- Machine Learning
-- AI Systems
-- Backend Engineering
+💡 AI Engineer focused on building **production-ready AI systems**
 
-⚙️ I enjoy building **AI-powered backend systems and real-world ML applications**
+⚙️ I specialize in:
+- Machine Learning & Deep Learning  
+- Generative AI & LLM Applications  
+- Retrieval-Augmented Generation (RAG) Systems  
+- Backend Development with FastAPI  
+- Cloud Deployment on AWS  
 
-☁️ Currently working with **AWS cloud deployment and AI infrastructure**
+🚀 I build **end-to-end AI pipelines** — from data processing and retrieval to scalable backend APIs and deployment
 
 ---
 
 # 💻 Tech Stack
 
-### Programming
-![Python](https://skillicons.dev/icons?i=python)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+### 🧠 AI / Machine Learning
+- Machine Learning  
+- Generative AI  
+- LLMs & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- LLM Evaluation (Faithfulness, Relevancy, Context Precision)  
+- Embedding Models & Vector Search  
+- LangChain  
 
 ---
 
-### Backend Development
+### ⚙️ Backend Development
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Flask](https://skillicons.dev/icons?i=flask)
 
 - REST API Development  
 - JWT Authentication  
-- Role Based Access Control
+- Role-Based Access Control  
 
 ---
 
-### AI / Machine Learning
+### 🗄️ Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-- Machine Learning
-- Generative AI
-- LLM Integration
-- Retrieval Augmented Generation (RAG)
-- Knowledge Base Systems
-- Vector Similarity Search
-- Hybrid Retrieval (BM25 + Vector)
-
-Libraries / Frameworks:
-
-- LangChain
-- HuggingFace Embeddings
-
-Vector Databases:
-
-- Chroma DB
-- OpenSearch (AWS)
+- PostgreSQL  
+- MySQL  
+- ChromaDB (Vector DB)  
+- OpenSearch (AWS)  
 
 ---
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Git](https://skillicons.dev/icons?i=git)
 
-- AWS EC2
-- AWS S3
-- AWS RDS
-- AWS Bedrock
-- CI/CD
-- Docker Containerization
+- AWS EC2, S3, RDS, Bedrock  
+- Docker Containerization  
+- NGINX Load Balancing  
+- CI/CD Pipelines  
 
 ---
 
 # 🚀 Projects
 
-## 🧠 RAG Platform
+## 🧠 RAG AI Platform
 
-Built a Retrieval Augmented Generation system that answers queries using **document context instead of pretrained knowledge**.
+Built a production-ready RAG system that answers queries using **real document context**, reducing hallucinations and improving reliability.
 
-**Technologies**
-- Python
-- FastAPI
-- LangChain
-- Chroma Vector Database
-- HuggingFace Embeddings
-- OpenRouter LLM APIs
+**Tech Stack**
+- Python, FastAPI, LangChain  
+- Chroma Vector Database  
+- HuggingFace Embeddings  
+- BM25 + Vector Hybrid Retrieval  
 
-**Features**
-
-- Hybrid retrieval (BM25 + Vector Search)
-- Dynamic document chunking
-- Query rewriting
-- Context-aware generation
-- Vector similarity search
+**Key Features**
+- Hybrid retrieval (BM25 + vector search)  
+- Query rewriting & dynamic chunking  
+- Context-aware LLM generation  
+- Evaluation pipeline (faithfulness, relevancy, precision)  
 
 ---
 
 ## 🏨 Hostel Management Platform
 
-Backend platform for managing hostel operations.
+Scalable backend system for managing hostel operations.
 
-**Technologies**
+**Tech Stack**
+- FastAPI, PostgreSQL, Docker  
+- AWS EC2, NGINX Load Balancer  
 
-- Python
-- FastAPI
-- JWT Authentication
-- PostgreSQL (Neon Cloud)
-- Docker
-- AWS EC2
+**Key Achievements**
+- Reduced latency by **44% (104ms → 58ms)**  
+- Increased throughput **2x (95 → 191 req/sec)**  
+- Implemented JWT auth & role-based access  
 
-**Features**
+---
 
-- Student registration
-- Room allocation
-- Occupancy tracking
-- Role based access (Admin / Warden / Student)
-- Secure REST APIs
+## 🤖 AI Resume Intelligence Platform
+
+AI-powered system for resume analysis and job matching.
+
+**Tech Stack**
+- Python, FastAPI, AWS Bedrock  
+- AI Agents, Embeddings, Next.js  
+
+**Key Features**
+- Multi-agent architecture (resume parsing, JD analysis, company research)  
+- Skill gap analysis using embeddings  
+- Generates job-specific resumes & cover letters  
 
 ---
 
@@ -143,4 +138,10 @@ Backend platform for managing hostel operations.
 
 ---
 
-⭐ **Focused on building scalable AI systems and real-world machine learning applications**
+## 🌐 Connect With Me
+
+🔗 LinkedIn: https://linkedin.com/in/raza-shaikh-ai  
+
+---
+
+⭐ Building scalable AI systems | LLM Applications | Production-ready backend engineering
